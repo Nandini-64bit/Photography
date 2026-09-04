@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nandini | Photography</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <header>
+        <div class="logo">NANDINI</div>
+
+        <nav>
+            <a href="#work">Work</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero">
+
+        <div class="hero-text">
+            <p class="eyebrow">PHOTOGRAPHY</p>
+
+            <h1>
+                Seeing the<br>
+                world differently.
+            </h1>
+
+            <p class="intro">
+                A collection of photographs capturing people,
+                places and moments.
+            </p>
+        </div>
+
+    </section>
+
+
+    <!-- PORTFOLIO -->
+    <section id="work" class="portfolio">
+
+        <div class="section-heading">
+            <p class="eyebrow">SELECTED WORK</p>
+            <h2>Photography</h2>
+        </div>
+
+
+        <div class="gallery">
+
+            <!-- PHOTO 1 -->
+            <div class="photo">
+                <img src="images/photo1.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 2 -->
+            <div class="photo">
+                <img src="images/photo2.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 3 -->
+            <div class="photo">
+                <img src="images/photo3.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 4 -->
+            <div class="photo">
+                <img src="images/photo4.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 5 -->
+            <div class="photo">
+                <img src="images/photo5.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 6 -->
+            <div class="photo">
+                <img src="images/photo6.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 7 -->
+            <div class="photo">
+                <img src="images/photo7.jpg" alt="Photography">
+            </div>
+
+            <!-- PHOTO 8 -->
+            <div class="photo">
+                <img src="images/photo8.jpg" alt="Photography">
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+    <section id="about" class="about">
+
+        <div class="about-title">
+            <p class="eyebrow">ABOUT</p>
+        </div>
+
+        <div class="about-text">
+
+            <h2>
+                Photography is how I
+                pay attention.
+            </h2>
+
+            <p>
+                I am an MBA student with a keen interest in photography.
+                I particularly enjoy capturing people, places, architecture
+                and everyday moments.
+            </p>
+
+            <p>
+                This website is a curated selection of photographs
+                from my personal collection.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div>
+            © 2026 Nandini
+        </div>
+
+        <div>
+            Photography Portfolio
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
