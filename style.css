@@ -57,7 +57,7 @@ nav a:hover {
 .hero {
     min-height: auto;
 
-    padding: 60px 3vw 30px;
+    padding: 60px 3vw 10px;
 
     display: flex;
     align-items: center;
