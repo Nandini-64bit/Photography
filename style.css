@@ -37,7 +37,7 @@ header {
 
 nav {
     display: flex;
-    gap: 8px;
+    gap: 35px;
 }
 
 nav a {
@@ -55,9 +55,9 @@ nav a:hover {
 /* HERO */
 
 .hero {
-    min-height: 75vh;
+    min-height: auto;
 
-    padding: 10vh 6vw;
+    padding: 40px 0 50px;
 
     display: flex;
     align-items: center;
